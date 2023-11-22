@@ -9,6 +9,7 @@
     opacity: 1;
   }
 </style>
+
 <script>
   function activateBody () {
     var bodyEl = document.querySelector('body')
